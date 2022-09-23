@@ -1,0 +1,13 @@
+inicio
+
+escreva("digite a cotação do dolar")
+leia(n1)
+
+escreva("digite o valor acima de 10,00. Em dolar")
+leia(n2)
+
+Res1 = num2/num1
+
+"res1" = num2/num1 <escreva
+
+fim
